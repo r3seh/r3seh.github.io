@@ -16,6 +16,7 @@ Also this blog is a great motivation for me to dig deeper into what I will posti
 
 Hope, this site won't be abandoned and it will keep alive for some time.
 
+My Telegram: @R3seh.
 
 [//]: <> > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 [//]: <> {: .prompt-tip }
