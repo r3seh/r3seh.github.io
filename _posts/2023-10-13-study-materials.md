@@ -2,7 +2,7 @@
 layout: post
 title:  "Study materials"
 tags: reverse training study cheatsheet
-category: reverse
+category: study materials
 ---
 
 
